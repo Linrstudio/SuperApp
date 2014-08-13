@@ -10,7 +10,7 @@
  * F5 激活Ctrl+S 全局热键，执行浏览器自动刷新功能；
 
 ### 下载
-https://github.com/Linrstudio/SuperChrome/downloads
+https://github.com/Linrstudio/SuperApp/tree/master/download/SuperApp.zip
 
 ### 演示视频：
 http://www.tudou.com/programs/view/zU5V81mQvCw/
